@@ -1,0 +1,37 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.section {
+  padding: 0px;
+  margin: 0px;
+}
+
+#topNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: blueviolet;
+}
+
+#aboutMe {
+  background-color: aqua;
+}
+
+#projectOne {
+  background-color: blueviolet;
+}
+
+#projectTwo {
+  background-color: aqua;
+}
+
+#projectThree {
+  background-color: blueviolet;
+}
+
+#projectFour {
+  background-color: aqua;
+}
